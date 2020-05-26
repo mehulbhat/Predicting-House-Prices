@@ -13,10 +13,10 @@ Note: This program uses python 3 and these packages: tensorflow, pandas, matplot
 
 <h3>The Validation Loss and Training Loss can be visualized as below: </h3>
 <div align="center">
-  <img border="0"  src="https://github.com/mehulbhat/Traffic_Signal_Prediction/blob/master/Sample%20Images/confusion%20matrix.png">
+  <img border="0"  src="https://github.com/mehulbhat/Predicting-House-Prices/blob/master/Housing%20Prices/images/pt_vl.jpg">
 </div>
 
 <h3>The Price Prediction of trained and untrained models can be visualized as below: </h3>
 <div align="center">
-  <img border="0"  src="https://github.com/mehulbhat/Traffic_Signal_Prediction/blob/master/Sample%20Images/confusion%20matrix.png">
+  <img border="0"  src="https://github.com/mehulbhat/Predicting-House-Prices/blob/master/Housing%20Prices/images/price_pred.jpg">
 </div>
